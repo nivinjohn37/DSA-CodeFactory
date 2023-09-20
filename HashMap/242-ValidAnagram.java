@@ -1,5 +1,7 @@
 package HashMap;
-
+/**
+ * good question
+ */
 class Solution {
     public boolean isAnagram(String s, String t) {
         int map[] = new int[26];
